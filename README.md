@@ -9,3 +9,16 @@ coco bi system
 4. [ ] BI Web
 5. [ ] BI API
 6. [ ] BI Mobile
+
+
+
+技术栈
+==
+1. SpringBoot 2
+2. SpringSecurity
+3. Mybatis-plus
+4. Mysql
+5. Redis
+6. ElasticSearch
+7. Vue+Vue-Router+Vuex
+8. Swagger
